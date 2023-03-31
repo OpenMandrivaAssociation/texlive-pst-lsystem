@@ -1,6 +1,6 @@
 Name:		texlive-pst-lsystem
 Version:	49556
-Release:	1
+Release:	2
 Summary:	Create images based on a L-system
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-lsystem
