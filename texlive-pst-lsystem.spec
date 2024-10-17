@@ -3,7 +3,7 @@ Version:	49556
 Release:	2
 Summary:	Create images based on a L-system
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-lsystem
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-lsystem
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-lsystem.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-lsystem.doc.r%{version}.tar.xz
